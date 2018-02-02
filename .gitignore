@@ -9,6 +9,7 @@
 *.cti
 *.asm
 *.elf
+*.o
 ASM/
 
 *.EXE
@@ -22,5 +23,6 @@ ASM/
 *.CTI
 *.ASM
 *.ELF
+*.O
 ASM/
 
