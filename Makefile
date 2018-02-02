@@ -1,7 +1,7 @@
 EE_CFLAGS = -std=c99 -Wall -Wno-main
 
-EE_BIN = hello.elf
-EE_OBJS = main.o 
+EE_BIN = PS2PROG.ELF
+EE_OBJS = main.o
 EE_LIBS = -lc -ldebug -lkernel 
  
 
